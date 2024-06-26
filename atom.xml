@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://MiggerWujingbo.github.io</id>
+    <title>Peter-无限进步</title>
+    <updated>2024-06-26T10:31:56.605Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://MiggerWujingbo.github.io"/>
+    <link rel="self" href="https://MiggerWujingbo.github.io/atom.xml"/>
+    <subtitle>逆水行舟，不进则退</subtitle>
+    <logo>https://MiggerWujingbo.github.io/images/avatar.png</logo>
+    <icon>https://MiggerWujingbo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Peter-无限进步</rights>
+    <entry>
+        <title type="html"><![CDATA[欢迎]]></title>
+        <id>https://MiggerWujingbo.github.io/post/welcome/</id>
+        <link href="https://MiggerWujingbo.github.io/post/welcome/">
+        </link>
+        <updated>2024-06-24T10:07:59.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>AI摘要<br>
+欢迎来到我的科技博客，这里充满了人工智能、新品发布和科技发现的精彩内容。我将分享最新的科技趋势和创新产品，邀请大家一起探索科技的奇妙世界。无论你是资深达人还是新手，这里都有适合你的乐趣和收获。</p>
+</blockquote>
+<hr>
+<p>亲爱的朋友们：</p>
+<p>嘿，大家好呀！欢迎来到我的个人博客。</p>
+<p>这是一个专门为科技迷们打造的小天地，这里充满了各种新奇有趣的玩意儿，像神秘的人工智能、令人期待的新品发布会，还有数不清的科技新发现。</p>
+<p>想象一下，科技就像一场超级刺激的冒险游戏，每一次新的突破都是向前迈进的关键一步。人工智能呢，就像是给我们生活添加的魔法调料，让一切变得更加智能和便捷。而那些新品发布会，简直就是科技世界的盛大派对，每次都能带来让人尖叫的惊喜。</p>
+<p>我呢，就像一个痴迷于探索科技宝藏的冒险家，迫不及待地想要把我发现的每一颗“宝石”都分享给你们。无论是最新的科技趋势，还是那些让人眼前一亮的创新产品，我都会毫无保留地在这里一一道来。</p>
+<p>我希望这个博客能成为我们共同的乐园，大家可以一起畅所欲言，分享对于科技的热爱和期待。不管您是资深的科技达人，还是刚刚对科技产生兴趣的新手小白，都能在这里找到属于自己的乐趣和收获。</p>
+<p>来吧，让我们一起开启这场充满惊喜与奇迹的科技之旅！</p>
+<p>感谢您的关注与支持，咱们一起玩转科技！</p>
+]]></content>
+    </entry>
+</feed>
